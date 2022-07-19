@@ -1,266 +1,266 @@
-2022-07-19 13:07:433 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:550 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:646 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:250 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:332 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:372 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:457 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:523 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:957 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:998 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:87 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:143 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:549 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:607 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:694 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:722 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:81 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:130 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:160 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:197 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:248 INFO  ServiceHooks:43 - Verify search function when providing valid booking number is pass
-2022-07-19 13:07:385 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:436 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:533 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:115 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:209 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:240 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:336 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:388 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:454 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:497 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:575 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:645 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:111 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:137 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:484 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:524 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:278 INFO  ServiceHooks:43 - Verify that users can cancel a booking if check-in date has not come yet is pass
-2022-07-19 13:07:196 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:252 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:339 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:913 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:996 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:29 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:116 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:186 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:449 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:492 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:564 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:630 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:991 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:21 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:240 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:267 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:931 INFO  ServiceHooks:43 - Verify that the Total on the Booking Details page is correctly calculated is pass
-2022-07-19 13:07:502 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:543 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:633 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:211 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:239 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:297 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:395 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:430 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:538 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:572 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:655 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:686 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:300 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:346 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:389 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:456 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:617 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:686 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:962 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:997 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:21 INFO  ServiceHooks:43 - Login into the application as customer role with valid credentials and logout is pass
-2022-07-19 13:07:389 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:443 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:559 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:180 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:223 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:277 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:371 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:405 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:505 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:540 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:611 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:636 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:864 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:895 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:918 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:959 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:38 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:94 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:881 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:905 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:928 INFO  ServiceHooks:43 - Login into the application as admin role with valid credentials and logout is pass
-2022-07-19 13:07:555 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:615 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:707 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:276 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:305 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:333 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:421 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:444 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:494 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:538 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:598 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:636 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:667 INFO  ServiceHooks:43 - Login into the application with invalid credentials in these Wrong username is pass
-2022-07-19 13:07:114 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:167 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:279 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:873 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:907 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:941 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:35 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:61 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:115 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:164 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:387 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:453 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:488 INFO  ServiceHooks:43 - Login into the application with invalid credentials in these Wrong password is pass
-2022-07-19 13:07:216 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:267 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:378 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:971 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:06 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:58 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:165 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:200 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:281 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:344 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:644 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:695 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:733 INFO  ServiceHooks:43 - Login into the application with invalid credentials in these Wrong username and password is pass
-2022-07-19 13:07:966 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:13 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:111 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:680 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:829 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:864 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:949 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:03 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:97 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:129 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:330 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:397 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:510 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:540 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:611 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:643 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:715 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:762 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:89 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:103 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:198 INFO  ServiceHooks:43 - Verify if customer can search for available room is pass
-2022-07-19 13:07:303 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:353 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:517 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:563 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:680 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:722 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:798 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:826 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:898 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:939 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:398 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:428 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:202 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:249 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:277 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:316 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:584 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:615 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:752 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:793 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:898 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:927 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:21 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:63 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:183 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:220 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:288 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:320 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:622 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:655 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:677 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:702 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:832 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:910 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:62 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:122 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:253 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:296 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:409 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:438 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:778 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:804 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:829 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:860 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:884 INFO  ServiceHooks:43 - Verify if guest can search for available room, then booking and make payment is pass
-2022-07-19 13:07:339 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:379 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:456 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:15 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:98 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:125 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:207 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:251 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:352 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:380 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:545 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:613 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:720 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:751 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:810 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:839 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:909 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:940 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:436 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:465 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:26 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:53 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:72 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:101 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:359 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:385 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:415 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:472 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:548 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:577 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:664 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:694 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:747 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:774 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:79 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:105 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:123 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:148 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:283 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:339 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:559 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:654 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:126 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:161 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:327 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:372 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:785 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:813 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:838 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:880 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:903 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:932 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:981 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:08 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:295 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:328 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:347 INFO  ServiceHooks:43 - Verify if customer can search for available room, then booking and make payment is pass
-2022-07-19 13:07:922 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:961 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:26 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:64 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:501 INFO  WaitHelper:23 - waiting for element visibilityOf..
-2022-07-19 13:07:537 INFO  WaitHelper:26 - element is visible..
-2022-07-19 13:07:556 INFO  ServiceHooks:43 - Verify search function on homepage when entering valid booking number is pass
+2022-07-19 14:07:465 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:565 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:665 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:273 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:371 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:407 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:489 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:546 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:763 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:803 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:894 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:960 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:816 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:859 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:986 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:56 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:706 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:747 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:783 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:817 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:848 INFO  ServiceHooks:43 - Verify search function when providing valid booking number is pass
+2022-07-19 14:07:723 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:766 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:863 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:462 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:553 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:582 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:663 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:705 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:819 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:854 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:928 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:969 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:509 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:540 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:852 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:889 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:464 INFO  ServiceHooks:43 - Verify that users can cancel a booking if check-in date has not come yet is pass
+2022-07-19 14:07:09 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:55 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:152 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:721 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:805 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:837 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:919 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:976 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:271 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:315 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:406 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:444 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:147 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:221 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:503 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:536 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:326 INFO  ServiceHooks:43 - Verify that the Total on the Booking Details page is correctly calculated is pass
+2022-07-19 14:07:254 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:311 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:410 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:991 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:16 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:46 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:134 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:166 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:259 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:296 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:361 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:388 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:463 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:491 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:518 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:554 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:651 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:700 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:524 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:556 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:576 INFO  ServiceHooks:43 - Login into the application as customer role with valid credentials and logout is pass
+2022-07-19 14:07:423 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:467 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:552 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:146 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:177 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:211 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:306 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:333 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:429 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:461 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:528 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:552 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:873 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:906 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:937 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:979 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:62 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:122 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:916 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:940 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:961 INFO  ServiceHooks:43 - Login into the application as admin role with valid credentials and logout is pass
+2022-07-19 14:07:751 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:808 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:906 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:506 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:540 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:569 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:667 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:691 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:736 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:787 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:829 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:862 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:889 INFO  ServiceHooks:43 - Login into the application with invalid credentials in these Wrong username is pass
+2022-07-19 14:07:525 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:566 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:663 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:236 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:266 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:301 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:398 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:422 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:481 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:536 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:536 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:569 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:594 INFO  ServiceHooks:43 - Login into the application with invalid credentials in these Wrong password is pass
+2022-07-19 14:07:423 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:464 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:560 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:156 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:204 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:248 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:351 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:374 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:422 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:472 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:428 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:462 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:487 INFO  ServiceHooks:43 - Login into the application with invalid credentials in these Wrong username and password is pass
+2022-07-19 14:07:212 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:252 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:349 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:927 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:39 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:86 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:171 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:213 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:292 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:320 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:483 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:540 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:684 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:715 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:777 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:814 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:875 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:916 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:332 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:344 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:168 INFO  ServiceHooks:43 - Verify if customer can search for available room is pass
+2022-07-19 14:07:404 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:442 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:618 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:663 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:794 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:836 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:914 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:954 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:17 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:55 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:585 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:617 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:231 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:259 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:282 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:311 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:550 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:592 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:740 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:769 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:884 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:918 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:06 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:37 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:142 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:173 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:251 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:283 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:643 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:685 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:707 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:734 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:858 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:917 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:69 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:103 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:224 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:256 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:412 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:447 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:857 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:907 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:947 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:977 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:03 INFO  ServiceHooks:43 - Verify if guest can search for available room, then booking and make payment is pass
+2022-07-19 14:07:937 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:981 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:78 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:733 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:850 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:876 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:953 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:992 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:80 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:107 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:279 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:340 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:477 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:506 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:572 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:608 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:671 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:716 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:230 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:263 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:909 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:938 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:958 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:985 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:253 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:287 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:315 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:364 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:460 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:487 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:583 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:613 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:670 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:698 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:995 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:30 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:58 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:83 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:233 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:273 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:420 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:451 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:571 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:608 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:767 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:803 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:00 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:60 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:93 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:136 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:163 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:187 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:232 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:258 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:541 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:574 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:604 INFO  ServiceHooks:43 - Verify if customer can search for available room, then booking and make payment is pass
+2022-07-19 14:07:936 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:976 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:39 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:78 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:547 INFO  WaitHelper:23 - waiting for element visibilityOf..
+2022-07-19 14:07:576 INFO  WaitHelper:26 - element is visible..
+2022-07-19 14:07:600 INFO  ServiceHooks:43 - Verify search function on homepage when entering valid booking number is pass

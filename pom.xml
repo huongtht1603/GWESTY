@@ -114,7 +114,7 @@
 							<goal>generate</goal>
 						</goals>
 						<configuration>
-							<projectName>Ebanking</projectName> 
+							<projectName>GWESTY</projectName> 
 			
 							<outputDirectory>target/cucumber-reports/advanced-reports</outputDirectory>
 							<cucumberOutput>target/cucumber-reports/CucumberReport.json</cucumberOutput>
@@ -154,11 +154,11 @@
 					<sourceJsonReportDirectory>target/cucumber-reports/CucumberReport.json</sourceJsonReportDirectory>
 					<generatedHtmlReportDirectory>${project.build.directory}/my-clue-report</generatedHtmlReportDirectory>
 					<customParameters>
-						<Custom_Parameter>Ebanking report</Custom_Parameter>
-						<Custom_URL>http://14.176.232.213:8080/EBankingWebsite</Custom_URL>
-						<_Text>Automation Test of Ebanking Website</_Text>
+						<Custom_Parameter>GWESTY report</Custom_Parameter>
+						<Custom_URL>http://14.176.232.213:8084/</Custom_URL>
+						<_Text>Automation Test of GWESTY Website</_Text>
 					</customParameters>
-					<customPageTitle>Ebanking Test Report</customPageTitle>
+					<customPageTitle>GWESTY Test Report</customPageTitle>
 					<skippedFails>false</skippedFails>   <!-- use for jenskin -->
 				</configuration>
 								
