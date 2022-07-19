@@ -57,7 +57,7 @@ public class searchForAvailableRoomStepDefinitions extends TestBase{
 
 		@When("^I see displayed rooms in this page meet number of adult and children$")
 		public void i_see_displayed_rooms_in_this_page_meet_number_of_adult_and_children() throws Throwable {
-			searchForAvailableRoom.getRoomDetails(Constants.adult, Constants.children );
+			searchForAvailableRoom.compareCapacity (Constants.adult, Constants.children );
 		}
 
 
