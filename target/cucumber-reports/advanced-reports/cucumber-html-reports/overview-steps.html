@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.tablesorter.min.js"></script>
+<script src="js/Chart.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="css/cucumber.css" type="text/css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<link rel="shortcut icon" href="images/favicon.png"/>
+
+<script>
+$(document).ready(function() {
+    // this will tell tablesorter to try looking for the data-value attribute
+    // if present, it'll sort by that instead
+    // otherwise, it'll sort by the text content of the table cell
+    $("#tablesorter").tablesorter({
+        textAttribute: 'data-value',
+        // ignores the first row of the header, the 'scenario', 'steps', since
+        // sorting those doesn't make sense
+        selectorHeaders: '> thead tr:not(.dont-sort) th',
+        // use a stable sort
+        sortStable: true
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<title>Cucumber Reports (no 1.0) - Steps Overview</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber Report</p>
+      <ul class="nav navbar-nav navbar-right">
+        <li role="presentation" ><a href="overview-features.html">Features</a></li>
+        <li role="presentation" ><a href="overview-tags.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="overview-steps.html">Steps</a></li>
+        <li role="presentation" ><a href="overview-failures.html">Failures</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="container-fluid">
+  <div class="col-md-5 col-md-offset-1">
+
+<table class="table table-bordered" id="build-info">
+  <thead>
+    <tr>
+      <th>Project</th>
+        <th>Number</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="info">
+      <td>Ebanking</td>
+        <td>1.0</td>
+      <td>19 Jul 2022, 13:54</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+  <div class="col-md-3 col-md-offset-2">
+  </div>
+</div>
+
+
+<div id="report-lead" class="container-fluid">
+  <div class="col-md-10 col-md-offset-1">
+    <h2>Steps Statistics</h2>
+      <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+  </div>
+</div>
+
+<div class="container-fluid" id="report">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <table id="tablesorter" class="stats-table table-hover">
+
+        <thead>
+          <tr class="header">
+            <th>Implementation</th>
+            <th>Occurrences</th>
+            <th>Average duration</th>
+            <th>Max duration</th>
+            <th>Total durations</th>
+            <th>Ratio</th>
+          </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+              <td class="location">ServiceHooks.endTest(Scenario)</td>
+              <td>12</td>
+              <td class="duration" data-value="890616900">0.890</td>
+              <td class="duration" data-value="890616900">0.968</td>
+              <td class="duration" data-value="10687402800">10.687</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">ServiceHooks.initializeTest()</td>
+              <td>12</td>
+              <td class="duration" data-value="1914291675">1.914</td>
+              <td class="duration" data-value="1914291675">4.359</td>
+              <td class="duration" data-value="22971500100">22.971</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">bookingManagementStepDefiniti.i_click_on_Booking_at_the_left_panel()</td>
+              <td>1</td>
+              <td class="duration" data-value="968465100">0.968</td>
+              <td class="duration" data-value="968465100">0.968</td>
+              <td class="duration" data-value="968465100">0.968</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">bookingManagementStepDefiniti.i_click_on_By_booking_number_tab()</td>
+              <td>1</td>
+              <td class="duration" data-value="141042700">0.141</td>
+              <td class="duration" data-value="141042700">0.141</td>
+              <td class="duration" data-value="141042700">0.141</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">bookingManagementStepDefiniti.i_click_on_the_Submit_button()</td>
+              <td>1</td>
+              <td class="duration" data-value="269296900">0.269</td>
+              <td class="duration" data-value="269296900">0.269</td>
+              <td class="duration" data-value="269296900">0.269</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">bookingManagementStepDefiniti.i_enter_booking_number_as(String)</td>
+              <td>1</td>
+              <td class="duration" data-value="118409200">0.118</td>
+              <td class="duration" data-value="118409200">0.118</td>
+              <td class="duration" data-value="118409200">0.118</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">bookingManagementStepDefiniti.i_login_as_an_admin_role()</td>
+              <td>1</td>
+              <td class="duration" data-value="6730055100">6.730</td>
+              <td class="duration" data-value="6730055100">6.730</td>
+              <td class="duration" data-value="6730055100">6.730</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">bookingManagementStepDefiniti.i_see_search_result_of_booking_number_as_and_customer_name_as(String,String)</td>
+              <td>1</td>
+              <td class="duration" data-value="167081200">0.167</td>
+              <td class="duration" data-value="167081200">0.167</td>
+              <td class="duration" data-value="167081200">0.167</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">cancelStepDefinitions.i_click_on_Cancel_button_on_popup()</td>
+              <td>1</td>
+              <td class="duration" data-value="3794350800">3.794</td>
+              <td class="duration" data-value="3794350800">3.794</td>
+              <td class="duration" data-value="3794350800">3.794</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">cancelStepDefinitions.i_click_on_any_reason_for_cancelation()</td>
+              <td>1</td>
+              <td class="duration" data-value="235804600">0.235</td>
+              <td class="duration" data-value="235804600">0.235</td>
+              <td class="duration" data-value="235804600">0.235</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">cancelStepDefinitions.i_click_on_cancel_button_of_any_room()</td>
+              <td>1</td>
+              <td class="duration" data-value="5158758100">5.158</td>
+              <td class="duration" data-value="5158758100">5.158</td>
+              <td class="duration" data-value="5158758100">5.158</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">cancelStepDefinitions.i_login_into_application_with_the_role_of_customer()</td>
+              <td>1</td>
+              <td class="duration" data-value="4451932700">4.451</td>
+              <td class="duration" data-value="4451932700">4.451</td>
+              <td class="duration" data-value="4451932700">4.451</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">cancelStepDefinitions.i_navigate_to_My_bookings_tab()</td>
+              <td>1</td>
+              <td class="duration" data-value="634059500">0.634</td>
+              <td class="duration" data-value="634059500">0.634</td>
+              <td class="duration" data-value="634059500">0.634</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">cancelStepDefinitions.this_booking_is_canceled_successfully_and_I_am_on_My_history_page()</td>
+              <td>1</td>
+              <td class="duration" data-value="28000">0.000</td>
+              <td class="duration" data-value="28000">0.000</td>
+              <td class="duration" data-value="28000">0.000</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">checkOutStepDefinitions.i_calculate_fee_and_verify_the_Total_at_the_end_of_the_booking_details_page_is_correctly_calculated()</td>
+              <td>1</td>
+              <td class="duration" data-value="187260300">0.187</td>
+              <td class="duration" data-value="187260300">0.187</td>
+              <td class="duration" data-value="187260300">0.187</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">checkOutStepDefinitions.i_click_on_any_room_in_Staying_status()</td>
+              <td>1</td>
+              <td class="duration" data-value="503463700">0.503</td>
+              <td class="duration" data-value="503463700">0.503</td>
+              <td class="duration" data-value="503463700">0.503</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">checkOutStepDefinitions.i_enter_to_search_field(String)</td>
+              <td>1</td>
+              <td class="duration" data-value="248263600">0.248</td>
+              <td class="duration" data-value="248263600">0.248</td>
+              <td class="duration" data-value="248263600">0.248</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">checkOutStepDefinitions.i_login_into_application_with_the_role_of_admin()</td>
+              <td>1</td>
+              <td class="duration" data-value="5992049100">5.992</td>
+              <td class="duration" data-value="5992049100">5.992</td>
+              <td class="duration" data-value="5992049100">5.992</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">checkOutStepDefinitions.i_navigate_to_Booking_at_the_left_panel()</td>
+              <td>1</td>
+              <td class="duration" data-value="1079071700">1.079</td>
+              <td class="duration" data-value="1079071700">1.079</td>
+              <td class="duration" data-value="1079071700">1.079</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_Click_on_log_out()</td>
+              <td>2</td>
+              <td class="duration" data-value="1267833600">1.267</td>
+              <td class="duration" data-value="1267833600">1.573</td>
+              <td class="duration" data-value="2535667200">2.535</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_am_logged_in_with_my_account_displayed_on_the_top_right_of_page()</td>
+              <td>1</td>
+              <td class="duration" data-value="87757400">0.087</td>
+              <td class="duration" data-value="87757400">0.087</td>
+              <td class="duration" data-value="87757400">0.087</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_am_logged_in_with_my_role_displayed_on_the_top_right_of_page(String)</td>
+              <td>1</td>
+              <td class="duration" data-value="53876400">0.053</td>
+              <td class="duration" data-value="53876400">0.053</td>
+              <td class="duration" data-value="53876400">0.053</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_am_on_the_url()</td>
+              <td>5</td>
+              <td class="duration" data-value="2326544640">2.326</td>
+              <td class="duration" data-value="2326544640">2.493</td>
+              <td class="duration" data-value="11632723200">11.632</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_check_on_Remember_me()</td>
+              <td>2</td>
+              <td class="duration" data-value="111081000">0.111</td>
+              <td class="duration" data-value="111081000">0.116</td>
+              <td class="duration" data-value="222162000">0.222</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_click_on_Sign_In_button()</td>
+              <td>5</td>
+              <td class="duration" data-value="1326468560">1.326</td>
+              <td class="duration" data-value="1326468560">1.644</td>
+              <td class="duration" data-value="6632342800">6.632</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_click_on_login_link_and_wait_for_sign_in_page()</td>
+              <td>5</td>
+              <td class="duration" data-value="154728300">0.154</td>
+              <td class="duration" data-value="154728300">0.167</td>
+              <td class="duration" data-value="773641500">0.773</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_enter_password()</td>
+              <td>1</td>
+              <td class="duration" data-value="142098100">0.142</td>
+              <td class="duration" data-value="142098100">0.142</td>
+              <td class="duration" data-value="142098100">0.142</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_enter_password_of_admin()</td>
+              <td>1</td>
+              <td class="duration" data-value="133575600">0.133</td>
+              <td class="duration" data-value="133575600">0.133</td>
+              <td class="duration" data-value="133575600">0.133</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_enter_username()</td>
+              <td>1</td>
+              <td class="duration" data-value="156167200">0.156</td>
+              <td class="duration" data-value="156167200">0.156</td>
+              <td class="duration" data-value="156167200">0.156</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_enter_username_of_admin()</td>
+              <td>1</td>
+              <td class="duration" data-value="147657800">0.147</td>
+              <td class="duration" data-value="147657800">0.147</td>
+              <td class="duration" data-value="147657800">0.147</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_got_log_out_from_the_application_and_land_on_home_page()</td>
+              <td>2</td>
+              <td class="duration" data-value="52798650">0.052</td>
+              <td class="duration" data-value="52798650">0.059</td>
+              <td class="duration" data-value="105597300">0.105</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_see_the_error_message_displayed(String)</td>
+              <td>3</td>
+              <td class="duration" data-value="86328500">0.086</td>
+              <td class="duration" data-value="86328500">0.101</td>
+              <td class="duration" data-value="258985500">0.258</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">loginlogoutStepDefinitions.i_should_see_login_Page()</td>
+              <td>5</td>
+              <td class="duration" data-value="623894960">0.623</td>
+              <td class="duration" data-value="623894960">0.664</td>
+              <td class="duration" data-value="3119474800">3.119</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForAvailableRoomStepDefinitions.i_am_on_booking_hotel_page()</td>
+              <td>1</td>
+              <td class="duration" data-value="2345968200">2.345</td>
+              <td class="duration" data-value="2345968200">2.345</td>
+              <td class="duration" data-value="2345968200">2.345</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForAvailableRoomStepDefinitions.i_click_a_Search_button()</td>
+              <td>1</td>
+              <td class="duration" data-value="590901800">0.590</td>
+              <td class="duration" data-value="590901800">0.590</td>
+              <td class="duration" data-value="590901800">0.590</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForAvailableRoomStepDefinitions.i_enter_adult_and_children()</td>
+              <td>1</td>
+              <td class="duration" data-value="204583500">0.204</td>
+              <td class="duration" data-value="204583500">0.204</td>
+              <td class="duration" data-value="204583500">0.204</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForAvailableRoomStepDefinitions.i_enter_checkin_and_checkout_as_and()</td>
+              <td>1</td>
+              <td class="duration" data-value="412936000">0.412</td>
+              <td class="duration" data-value="412936000">0.412</td>
+              <td class="duration" data-value="412936000">0.412</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForAvailableRoomStepDefinitions.i_log_in_as_a_customer()</td>
+              <td>1</td>
+              <td class="duration" data-value="4665044100">4.665</td>
+              <td class="duration" data-value="4665044100">4.665</td>
+              <td class="duration" data-value="4665044100">4.665</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForAvailableRoomStepDefinitions.i_see_displayed_rooms_in_this_page_meet_number_of_adult_and_children()</td>
+              <td>1</td>
+              <td class="duration" data-value="1891517100">1.891</td>
+              <td class="duration" data-value="1891517100">1.891</td>
+              <td class="duration" data-value="1891517100">1.891</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForRoomStepDefinitions.enter(String)</td>
+              <td>7</td>
+              <td class="duration" data-value="115045228">0.115</td>
+              <td class="duration" data-value="115045228">0.159</td>
+              <td class="duration" data-value="805316600">0.805</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForRoomStepDefinitions.i_am_on_the_Url()</td>
+              <td>1</td>
+              <td class="duration" data-value="2233261000">2.233</td>
+              <td class="duration" data-value="2233261000">2.233</td>
+              <td class="duration" data-value="2233261000">2.233</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForRoomStepDefinitions.i_click_on_search_button()</td>
+              <td>1</td>
+              <td class="duration" data-value="104174000">0.104</td>
+              <td class="duration" data-value="104174000">0.104</td>
+              <td class="duration" data-value="104174000">0.104</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForRoomStepDefinitions.i_click_on_the_search_button()</td>
+              <td>1</td>
+              <td class="duration" data-value="342628100">0.342</td>
+              <td class="duration" data-value="342628100">0.342</td>
+              <td class="duration" data-value="342628100">0.342</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchForRoomStepDefinitions.see_information_of(String)</td>
+              <td>1</td>
+              <td class="duration" data-value="55049900">0.055</td>
+              <td class="duration" data-value="55049900">0.055</td>
+              <td class="duration" data-value="55049900">0.055</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_am_on_Checkout_page()</td>
+              <td>2</td>
+              <td class="duration" data-value="49345850">0.049</td>
+              <td class="duration" data-value="49345850">0.054</td>
+              <td class="duration" data-value="98691700">0.098</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_click_Search_button()</td>
+              <td>2</td>
+              <td class="duration" data-value="512364700">0.512</td>
+              <td class="duration" data-value="512364700">0.526</td>
+              <td class="duration" data-value="1024729400">1.024</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_click_into_view_details_of_any_room_displayed()</td>
+              <td>2</td>
+              <td class="duration" data-value="697309950">0.697</td>
+              <td class="duration" data-value="697309950">0.804</td>
+              <td class="duration" data-value="1394619900">1.394</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_click_on_Book_Now_button_after_checking_all_information()</td>
+              <td>2</td>
+              <td class="duration" data-value="296578100">0.296</td>
+              <td class="duration" data-value="296578100">0.307</td>
+              <td class="duration" data-value="593156200">0.593</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_enter_Adult_and_Children()</td>
+              <td>2</td>
+              <td class="duration" data-value="203725000">0.203</td>
+              <td class="duration" data-value="203725000">0.218</td>
+              <td class="duration" data-value="407450000">0.407</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_enter_Checkin_and_Checkout_as_and()</td>
+              <td>2</td>
+              <td class="duration" data-value="373761150">0.373</td>
+              <td class="duration" data-value="373761150">0.379</td>
+              <td class="duration" data-value="747522300">0.747</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_fill_out_credit_card_information_and_click_paynow()</td>
+              <td>2</td>
+              <td class="duration" data-value="4372121100">4.372</td>
+              <td class="duration" data-value="4372121100">4.654</td>
+              <td class="duration" data-value="8744242200">8.744</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_fill_out_data_on_Add_your_informations_tick_on_I_agree_with_Terms_and_Conditions_and_click_on_Summit_button()</td>
+              <td>1</td>
+              <td class="duration" data-value="6037462400">6.037</td>
+              <td class="duration" data-value="6037462400">6.037</td>
+              <td class="duration" data-value="6037462400">6.037</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_fill_out_data_on_Add_your_informations_tick_on_I_agree_with_Terms_and_Conditions_and_click_on_the_Summit_button()</td>
+              <td>1</td>
+              <td class="duration" data-value="5720264100">5.720</td>
+              <td class="duration" data-value="5720264100">5.720</td>
+              <td class="duration" data-value="5720264100">5.720</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_login_as_a_customer()</td>
+              <td>1</td>
+              <td class="duration" data-value="4365157400">4.365</td>
+              <td class="duration" data-value="4365157400">4.365</td>
+              <td class="duration" data-value="4365157400">4.365</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_search_if_this_booking_number_is_successful_booking()</td>
+              <td>1</td>
+              <td class="duration" data-value="444714600">0.444</td>
+              <td class="duration" data-value="444714600">0.444</td>
+              <td class="duration" data-value="444714600">0.444</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_see_a_booking_form()</td>
+              <td>2</td>
+              <td class="duration" data-value="59491300">0.059</td>
+              <td class="duration" data-value="59491300">0.073</td>
+              <td class="duration" data-value="118982600">0.118</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">searchbookPaymentStepDefinitions.i_see_a_message_for_successfull_booking_as_and_i_got_the_booking_number(String)</td>
+              <td>2</td>
+              <td class="duration" data-value="10120687300">10.120</td>
+              <td class="duration" data-value="10120687300">10.123</td>
+              <td class="duration" data-value="20241374600">20.241</td>
+              <td class="passed">100.00%</td>
+            </tr>
+        </tbody>
+
+        <tfoot class="total">
+          <tr>
+            <td>57</td>
+            <td>115</td>
+            <td class="duration">1.338</td>
+            <td class="duration">22.971</td>
+            <td class="duration">2:33.929</td>
+            <td>Totals</td>
+          </tr>
+        </tfoot>
+
+      </table>
+    </div>
+  </div>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+        <small>generate Cucumber HTML reports via:&nbsp;</small>
+        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        &nbsp;&nbsp;
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>

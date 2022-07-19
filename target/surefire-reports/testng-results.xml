@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BDD Test Suite" duration-ms="154709" started-at="2022-07-19T13:51:28 ICT" finished-at="2022-07-19T13:54:03 ICT">
+    <groups>
+      <group name="cucumber">
+        <method signature="TestRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" class="com.cucumberFramework.testRunner.TestRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="BVT Test" duration-ms="154709" started-at="2022-07-19T13:51:28 ICT" finished-at="2022-07-19T13:54:03 ICT">
+      <class name="com.cucumberFramework.testRunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="setUpClass" is-config="true" duration-ms="364" started-at="2022-07-19T13:51:28 ICT" finished-at="2022-07-19T13:51:29 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" duration-ms="13649" started-at="2022-07-19T13:51:29 ICT" description="Runs cucumber Features" data-provider="features" finished-at="2022-07-19T13:51:43 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[As a role of admin, I can search booking with booking number]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" duration-ms="16934" started-at="2022-07-19T13:51:43 ICT" description="Runs cucumber Features" data-provider="features" finished-at="2022-07-19T13:52:00 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[As a customer role, i can cancel booking]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" duration-ms="10649" started-at="2022-07-19T13:52:00 ICT" description="Runs cucumber Features" data-provider="features" finished-at="2022-07-19T13:52:10 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[As a role of admin, i check the "Total" is correctly calculated]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" duration-ms="38882" started-at="2022-07-19T13:52:10 ICT" description="Runs cucumber Features" data-provider="features" finished-at="2022-07-19T13:52:49 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[As a Gwesty customer and admin, I should be able to login and logout with valid credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" duration-ms="10564" started-at="2022-07-19T13:52:49 ICT" description="Runs cucumber Features" data-provider="features" finished-at="2022-07-19T13:53:00 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[As a customer, I should be able to search for available room]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" duration-ms="58154" started-at="2022-07-19T13:53:00 ICT" description="Runs cucumber Features" data-provider="features" finished-at="2022-07-19T13:53:58 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[As a guest and as a customer, I should be able to search for available room, booking and make payment]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="feature" duration-ms="5179" started-at="2022-07-19T13:53:58 ICT" description="Runs cucumber Features" data-provider="features" finished-at="2022-07-19T13:54:03 ICT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[on homepage, I can search my booking with booking number]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="testDownClass()[pri:0, instance:com.cucumberFramework.testRunner.TestRunner@7a9273a8]" name="testDownClass" is-config="true" duration-ms="146" started-at="2022-07-19T13:54:03 ICT" finished-at="2022-07-19T13:54:03 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownClass -->
+      </class> <!-- com.cucumberFramework.testRunner.TestRunner -->
+    </test> <!-- BVT Test -->
+  </suite> <!-- BDD Test Suite -->
+</testng-results>
