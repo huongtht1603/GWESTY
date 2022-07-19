@@ -60,7 +60,7 @@ public class searchForAvailableRoom extends AbstractPage {
 		waitHelper = new WaitHelper(driver);
 	}
 	
-	public void getRoomDetails (int input1, int input2) throws InterruptedException {
+	public void compareCapacity (int input1, int input2) throws InterruptedException {
 		
 		List<room> listOfRoom = new ArrayList<>();
 		
