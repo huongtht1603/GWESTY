@@ -89,7 +89,7 @@ public class searchForAvailableRoom extends AbstractPage {
 		}
 		
 		for (room ro:listOfRoom) {	
-			if ((ro.getAdultNo()>=input1) && (ro.getChildrenNo()>=input2)) {
+			if ((ro.getAdultNo()<input1) && (ro.getChildrenNo()<input2)) {
 				JavascriptExecutor js = (JavascriptExecutor)driver;
 				waitHelper.WaitForElement(ro.getWebElement(), 3);
 				js.executeScript("arguments[0].click()", ro.getWebElement());
