@@ -100,14 +100,14 @@ public class searchbookPayment extends AbstractPage {
 	}
 	
 	public int enterAdultNo (){
-		Constants.adult= randomInterger(1,4);
+		Constants.adult= randomInterger(1,10);
 		waitHelper.WaitForElement(this.adult, 3);
 		adult.sendKeys(Integer.toString(Constants.adult));
 		return Constants.adult;
 	}
 	
 	public int enterChildrenNo () {	
-		Constants.children= randomInterger(1,4);
+		Constants.children= randomInterger(1,10);
 		waitHelper.WaitForElement(this.children, 3);
 		children.sendKeys(Integer.toString(Constants.children));
 		return Constants.children;
